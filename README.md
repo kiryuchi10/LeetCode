@@ -24,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kiryuchi10/LeetCode/tree/master/0002-add-two-numbers) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/kiryuchi10/LeetCode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
