@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kiryuchi10/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/kiryuchi10/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/kiryuchi10/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/kiryuchi10/LeetCode/tree/master/0120-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/kiryuchi10/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/kiryuchi10/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/kiryuchi10/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/kiryuchi10/LeetCode/tree/master/0120-triangle) |
 ## Memoization
 |  |
 | ------- |
