@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/kiryuchi10/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/kiryuchi10/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kiryuchi10/LeetCode/tree/master/0070-climbing-stairs) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/kiryuchi10/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Recursion
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kiryuchi10/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/kiryuchi10/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/kiryuchi10/LeetCode/tree/master/0067-add-binary) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/kiryuchi10/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/kiryuchi10/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Trie
 |  |
